@@ -49,7 +49,7 @@ table {
 
 * {
     box-sizing: border-box;
-    border: 1px solid gray;
+    /*border: 1px solid gray;*/
     max-width: 100%;
 }
 
@@ -150,4 +150,8 @@ nav a {
     background-size: cover;
     background-position: top center;
     width: 100%;
+}
+
+.footer {
+    background-color: #F9E7DC;
 }
